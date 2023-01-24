@@ -1,5 +1,5 @@
 # Joke.WindowBlock
-The joke program Block and minimazed active window re-coded on Charp
+The joke program Block and minimazed active window re-coded on CSharp
 
 Links
 
